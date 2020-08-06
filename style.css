@@ -1,0 +1,94 @@
+
+
+#background {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 12%;
+    background-color: #b2d3e6;
+    z-index: 1;
+    text-align: center;
+}
+
+
+#content {
+    position: fixed;
+    z-index: 2;
+    padding: 0px;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+img {
+  height: 60px;
+  width: 60px;
+  border-radius: 100%;
+  position: absolute;
+  left: 1250px;
+  top: 7px;
+}
+
+h1 {
+  font-weight: 400;
+  text-align: center;
+  margin: 0 auto;
+}
+
+/* body {
+  background-image: url("https://photos.zillowstatic.com/uncropped_scaled_within_1536_1152/ISlaiv7qguptuq0000000000.webp");
+  background-repeat: no-repeat;
+   background-attachment: fixed;
+  background-size: cover;
+
+} */
+
+body {
+  background: url("bye.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+html, body {
+  overflow-x: hidden;
+  text-align: center;
+}
+
+div {
+  text-align: center;
+
+}
+
+
+a {
+  color: white;
+  text-decoration: none;
+  font-size: 30px;
+  padding: 50px 10px;
+  line-height: 50px;
+  font-famiy: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+a:hover {
+  color: #699CB3;
+}
+
+h2 {
+  color: black;
+  text-align: center;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 125px;
+ font-weight: 300;
+}
+
+h3 {
+  color: black;
+  text-align: center;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 40px;
+ font-weight: 300;
+ line-height: 0px;
+position: absolute;
+left: 370px;
+top: 260px;
+}
